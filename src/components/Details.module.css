@@ -1,0 +1,21 @@
+.details{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+}
+
+.col img{
+    width: 40px;
+    margin-right: 16px;
+}
+
+.humidity,.wind{
+    font-size: 28px;
+    margin-top: -10px;
+}
